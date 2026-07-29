@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=670&height=44&lines=Full%20Stack%20Developer%20%7C%20Systems%20Engineering;Code%2CCoffee%2C%20Repeat%20%3C3" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 Sistems Engineering student who loves bringing scalable web plataforms to life. I genuinely enjoy  working across the stack with C#, PHP, Node.js, JavaScript and SQL, always aiming for clean code in colaborative Scrum teams.
 
